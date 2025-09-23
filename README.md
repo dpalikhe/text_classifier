@@ -8,7 +8,7 @@
   
   **sentiment_data.csv**: Train data for sentiment analysis model
   
-  **dataset.csv**: Test data for analysis. The file was too large to upload to github. [Download Link](https://www.kaggle.com/datasets/kazanova/sentiment140/code).
+  **dataset.csv**: Test data for analysis. The file was too large to upload to github. [Download Link](https://www.kaggle.com/datasets/kazanova/sentiment140/code)
 
   **text_classifier.py**: Text Classification Models
 
