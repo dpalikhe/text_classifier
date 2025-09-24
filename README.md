@@ -16,4 +16,8 @@
 
   **app.py**: Flask App
 
-  
+  <img width="188" height="95" alt="image" src="https://github.com/user-attachments/assets/7af13d9d-42e7-4eba-a103-2ad37b0cf8df" />
+
+  <img width="197" height="86" alt="image" src="https://github.com/user-attachments/assets/3e243356-879a-4a8e-94d3-c5dba6e37db8" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>Flask app demo screenshot </sub>
